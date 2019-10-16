@@ -1,16 +1,12 @@
-h1 {
-  font-family:sans-serif;
-  color:black;
-  font-size:30px;
-  margin-left:0px;
-  margin-top:0px;
-  background-color:purple;
-}
-.links {
-  font:italic;
-  color:blue;
-  font-size:15px;
+html {
+  background-image: url("/home/ian/Desktop/island-resort/resort/images/pexels-photo-417211.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  color: azure;
 }
 p {
-  font-family:'Times New Roman', Times, serif;
+  color: azure;
 }
