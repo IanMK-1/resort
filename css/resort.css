@@ -1,0 +1,16 @@
+h1 {
+  font-family:sans-serif;
+  color:black;
+  font-size:30px;
+  margin-left:0px;
+  margin-top:0px;
+  background-color:purple;
+}
+.links {
+  font:italic;
+  color:blue;
+  font-size:15px;
+}
+p {
+  font-family:'Times New Roman', Times, serif;
+}
